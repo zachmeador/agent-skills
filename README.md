@@ -29,8 +29,8 @@ skill in the correct host directory.
 
 ## Available skills
 
-- [`add-agent-config-sync`](skills/add-agent-config-sync/) — Make `AGENTS.md` and `skills/`
-  canonical, generate `CLAUDE.md`, and copy skills into both common host directories.
+- [`add-agent-config-sync`](skills/add-agent-config-sync/) — Add a small script that mirrors
+  skills from any project-chosen source directory into ignored agent directories.
 
 ## Install
 

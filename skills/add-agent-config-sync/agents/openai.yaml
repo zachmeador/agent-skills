@@ -1,4 +1,4 @@
 interface:
   display_name: "Add Agent Config Sync"
-  short_description: "Install cross-agent config and skill syncing"
-  default_prompt: "Use $add-agent-config-sync to make AGENTS.md and skills/ the canonical sources for this project."
+  short_description: "Add a simple ignored agent sync"
+  default_prompt: "Use $add-agent-config-sync once to add a simple script that mirrors this project's canonical skills into common agent directories and gitignores the generated outputs."
